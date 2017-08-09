@@ -8,9 +8,9 @@ exercise in getting a better understanding of Python and Data Science.
 
 In order to analyze data about a specific stock properly, we will need to:
 
-1- Install the dependencies for this program
-2- Insert our desired dataset in the form of a CSV file
-3- Execute the program and generate our graph
+- Install the dependencies for this program
+- Insert our desired dataset in the form of a CSV file
+- Execute the program and generate our graph
 
 ### Dependencies 
 
@@ -89,9 +89,9 @@ lets us project into the future to what possible prices for a given stock may be
 
 The three models we use are:
 
-1- A Linear SVM
-2- A Polynomial SVM
-3- A Radial Basis Function (RBF)
+- A Linear SVM
+- A Polynomial SVM
+- A Radial Basis Function (RBF)
 
 SVMs are extensice topics in machine learning, [you can learn more about them here](https://en.wikipedia.org/wiki/Support_vector_machine#Linear_SVM)
 
