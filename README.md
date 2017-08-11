@@ -23,15 +23,15 @@ Once you have Python3 set up on your machine, install the following dependencies
 - CSV: This will allow us to read data from the CSV file of our given stock
 - Numpy: A linear algebra library that will manipulate our data
 - Scikit-learn: We use this to generate our predictive models
-- Matplotlib is used to visualize our models and plot our data
+- Matplotlib: Used to visualize our models and plot our data
 
-You cann install all of them by running these commands:
+You can install all of them by running these commands:
 
 ```bash
-pip install install csv
-pip install install numpy
-pip install install scikit-learn
-pip install install matplotlib
+pip install csv
+pip install numpy
+pip install scikit-learn
+pip install matplotlib
 ```
 
 ### Choosing our Dataset
